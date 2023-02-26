@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=HTML5&logoColor=red" />
   <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=CSS3&logoColor=red" />
   <img src="https://img.shields.io/badge/Java Script-FFD700?style=for-the-badge&logo=JavaScript&logoColor=red" />
+  <img src="https://img.shields.io/badge/-html5up.net-FFD700?style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/GIT HUB-FFD700?style=for-the-badge&logo=GIT&logoColor=red" />
   <img src="https://img.shields.io/badge/Sourcetree-FFD700?style=for-the-badge&logo=Sourcetree&logoColor=red" />
 </div>
